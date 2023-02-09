@@ -1,0 +1,1 @@
+Se puede hacer el commit de la carpeta por que ya se tiene un archivo dentro de ella 
