@@ -1,0 +1,1 @@
+Cuando una carpeta esta vacia no se puede hacer un commit por que para git es como si no existieran cambios
