@@ -1,0 +1,3 @@
+Se puede hacer el commit por que ya la carpeta tiene informacion, y no es una carpeta vacia.
+Cuando es vacia no se puede subir
+cuando tiene archivos si
