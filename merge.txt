@@ -4,5 +4,5 @@
 -Se puede hacer el commit por que ya la carpeta tiene informacion, y no es una carpeta vacia.
 Cuando es vacia no se puede subir
 cuando tiene archivos si
--Es importante tener cuidados para no sobreescribir trabajo de otra persona y que se le pierda el trabajo que lleva
-adelantado
+-Es importante tener cuidados para no sobreescribir trabajo de otra persona y que se le pierda 
+el trabajo que lleva adelantado.
